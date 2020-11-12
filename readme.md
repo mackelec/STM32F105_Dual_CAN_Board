@@ -1,7 +1,7 @@
 ###  STM32F105 development board with Dual CAN bus
 
 
-![STM32F105 Dual CAN](https://github.com/mackelec/STM32F105_Dual_CAN_Board/blob/master/STM32F105%20Dual%20CAN_s.PNG)
+![STM32F105 Dual CAN](https://github.com/mackelec/STM32F105_Dual_CAN_Board/blob/master/STM32F105%20Dual%20CAN_2s.png)
 
 
 
@@ -21,3 +21,7 @@ This board was designed as a general purpose development board with the aim of d
 * ESP8266 connector.
 * I2C Connector.
 * All IO pins are broken out to four 10 pin SIL headers.
+
+####  I had my PCB made at www.jlcpcb.com  
+
+To get this PCB made at JLCPCB just use the Zipped Gerbers https://github.com/mackelec/STM32F105_Dual_CAN_Board/blob/master/Gerber_stm32F105%20DualCAN.zip
